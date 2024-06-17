@@ -4,7 +4,6 @@ This application aims to early detection of lung cancer to give patients the bes
 
 ![Lung-Cancer-Detection](https://user-images.githubusercontent.com/68781375/162584408-450580c0-3354-470b-a69c-180a19802fd4.jpg)
 
-
 ## Dataset
 
 
